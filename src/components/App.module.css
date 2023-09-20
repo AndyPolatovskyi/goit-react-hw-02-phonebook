@@ -1,0 +1,12 @@
+.container {
+  width: 300px;
+  height: 1000px;
+  background-color: #e9eef0;
+  padding: 40px 60px;
+  margin: 0 auto;
+}
+
+.title {
+  margin-bottom: 10px;
+  text-align: center;
+}

@@ -1,0 +1,34 @@
+.list {
+  background-color: #fff;
+  margin-bottom: 20px;
+  padding: 15px;
+  gap: 20px;
+  border-radius: 6px;
+  box-shadow: 2px 2px 4px rgba(0, 0, 0, 0.25);
+}
+
+.item {
+  display: flex;
+  margin: 10px;
+  align-items: end;
+}
+
+.btn {
+  border: none;
+  border-radius: 10px;
+  text-decoration: none;
+  color: white;
+  background: #9fa2a5;
+  box-shadow: 0 5px 0 #555d6d;
+  cursor: pointer;
+  margin-left: auto;
+  padding: 5px;
+}
+
+.btn:hover {
+  background: #141516;
+  box-shadow: none;
+  position: relative;
+  top: 5px;
+  cursor: pointer;
+}
